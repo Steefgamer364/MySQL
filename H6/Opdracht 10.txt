@@ -1,0 +1,3 @@
+Almere: 0
+Lelystad: 600
+Zeewolde: 200
